@@ -17,3 +17,15 @@
 .fat{
     margin-right: auto;
 }
+
+.w-300 {
+    width: 700px;
+}
+
+.carousel-inner img{
+    margin: auto;
+}
+
+.centermargin{
+    margin: auto;
+}
